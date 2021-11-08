@@ -1,0 +1,1 @@
+operator // agar hasil tidak ada komanya atau dibulatkan ke bawah, kalau / hasilnya ada koma
