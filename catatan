@@ -1,0 +1,13 @@
+cara saya ini sih mas buat pilih fieldnya 
+Directors.query.with_entities(Directors.uid, Directors.name, Directors.department)
+
+query = Director.query.all()
+
+    res = []
+    for q in query:
+        res.append({'name': q.name})
+
+    return res
+
+https://github.com/aaronjolson/flask-pytest-example
+https://pydantic-docs.helpmanual.io/

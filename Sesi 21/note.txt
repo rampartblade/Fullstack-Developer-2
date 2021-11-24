@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/API/fetch
+https://github.com/public-apis/public-apis
+https://alexwohlbruck.github.io/cat-facts/docs/endpoints/facts.html
+https://cat-fact.herokuapp.com
+https://jsonplaceholder.typicode.com/

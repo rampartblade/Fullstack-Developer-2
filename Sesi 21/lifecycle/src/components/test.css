@@ -1,0 +1,33 @@
+.clock{
+    font-family: 'roboto';
+    /* display: grid;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 1000px;
+    height: 300px;
+    border: 2cm; */
+    text-shadow: 
+    0 0 5px #fff, 
+    0 0 10px #fff, 
+    0 0 7px #fff, 
+    0 0 20px #88dfff, 
+    0 0 35px #68ffc8, 
+    0 0 40px #68ffc8, 
+    0 0 50px #68ffc8, 
+    0 0 75px #68ffc8;
+    color: white;
+}
+
+.Clock{
+    font-family: 'roboto';
+}
+
+.timer{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: monospace;
+    font-size: 8em;
+    padding-top: 0.8em;
+}

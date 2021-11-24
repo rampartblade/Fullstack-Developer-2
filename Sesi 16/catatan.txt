@@ -1,0 +1,1 @@
+tanda pagar untuk membuat suatu instance menjadi private properties
